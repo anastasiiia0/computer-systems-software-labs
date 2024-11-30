@@ -1,0 +1,11 @@
+{
+  "name": "expression-tree-visualizer",
+  "version": "1.0.0",
+  "main": "t.js",
+  "scripts": {
+    "start": "node  t.js"
+  },
+  "dependencies": {
+    "viz.js": "^2.1.2"
+  }
+}
